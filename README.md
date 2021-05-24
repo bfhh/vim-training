@@ -1,0 +1,2 @@
+# vim-training
+vim exercises
